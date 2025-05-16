@@ -16,7 +16,7 @@ o	Payments[PaymentID] ↔ Alerts[PaymentID]
 •	A CountryName column was derived using a country code mapping.
 
 ### 📊 Dashboard Features
-![Chart1]('Charts.jpg')
+![Chart]('Charts.jpg')
 
 
 ### 🔍 Insights
